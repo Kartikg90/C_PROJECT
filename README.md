@@ -19,9 +19,11 @@ A comprehensive C program for managing product inventory with add, delete, searc
 │    ├── stock.c             - Core inventory functions 
 │    ├── input_validation.c  - Input validation functions 
 │    └── file_operations.c   - File I/O functions 
+│
 ├── include/ 
 │    ├── stock.h             - Stock management header 
 │    ├── input_validation.h  - Validation header 
 │    └── file_operations.h   - File operations header 
+│
 └── README.md                - This file
 

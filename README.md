@@ -17,14 +17,14 @@ The program lets you:
 The stock records are saved in a text file `stock_data.txt`.
 
 ## Project structure  
-- `src/main.c` - main program source code  
+- `src/stock.c` - main program source code  
 - `include/stock.h` - header file with struct and function declarations  
 - `docs/` - project report folder  
 - `README.md` - this file  
 
 ## How to compile and run
 
-gcc src/main.c -Iinclude -o stock_app ./stock_app
+gcc src/stock.c -Iinclude -o stock_app ./stock_app
 
 ## Notes
 - Stock name should be a single word (no spaces).  
